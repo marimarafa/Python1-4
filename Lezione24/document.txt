@@ -1,0 +1,3 @@
+Da:bob12@gmail.com,A:alice3@gmail.com 
+Titolo:Buongiorno 
+Messaggio:Buongiorno alice come stai?
